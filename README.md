@@ -51,5 +51,5 @@ JSON 結構自動偵測: 程式具備容錯機制，能自動適應 CWA API 不�
 
 反爬蟲應對: 電影爬蟲加入了 time.sleep 停頓，並處理了分頁爬取的邏輯。
 
-![Demo1.jpg](Lecture 13\Demo1.jpg)
-![Demo2.jpg](Lecture 13\Demo2.jpg)
+![Demo1.jpg](Demo1.jpg)
+![Demo2.jpg](Demo2.jpg)
